@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+sentence-transformers
+deep-translator
+pdfplumber
+docx2txt
+torch
+python-dotenv

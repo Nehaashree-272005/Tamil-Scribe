@@ -8,7 +8,7 @@ A bilingual (Tamil + English) text summarizer built with **Streamlit** and **Goo
 
 - 🌐 Auto-detects Tamil or English input
 - 📄 Supports file upload: `.txt`, `.docx`, `.pdf`
-- 🤖 Gemini 1.5 Pro for abstractive summarization
+- 🤖 Gemini 2.0 Flash for abstractive summarization
 - 🔁 Sentence-transformer fallback if Gemini fails
 - 📊 Shows compression ratio and word counts
 
